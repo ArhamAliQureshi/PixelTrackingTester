@@ -5,5 +5,5 @@
 
 exports.list = function(req, res){
 //    console.log(req);
-  res.send("respond with a resource");
+  res.send("respond with a resource. I AM RESPONDING");
 };
