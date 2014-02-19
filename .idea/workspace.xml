@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.ejs" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.ejs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="9" selection-start="306" selection-end="306" vertical-scroll-proportion="0.1784108" vertical-offset="0" max-vertical-offset="667">
+            <state line="7" column="9" selection-start="306" selection-end="306" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="714">
+            <state line="4" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.06782107" vertical-offset="21" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
@@ -138,6 +138,11 @@
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pixelTracking" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\heorku\PixelTrackingTester\public" />
+    </key>
   </component>
   <component name="RunManager" selected="Node.js.app.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -309,16 +314,16 @@
         <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="714">
+        <state line="7" column="9" selection-start="306" selection-end="306" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="323">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="9" selection-start="306" selection-end="306" vertical-scroll-proportion="0.1784108" vertical-offset="0" max-vertical-offset="667">
+        <state line="4" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.06782107" vertical-offset="21" max-vertical-offset="714">
           <folding />
         </state>
       </provider>
